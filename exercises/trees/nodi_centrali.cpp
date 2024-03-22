@@ -1,6 +1,7 @@
 //
 // Created by Alberto Tomasin on 05/03/24.
 //
+#include <iostream>
 
 struct Node {
     int key; // la chiave
